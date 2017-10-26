@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, Verdana, serif;
+  background-color: #80ffaa;
+}
+h1, h2, h3{
+  color: #0066cc;
+  background-color: #33ffcc;
+}
+h4, h5, h6{
+  color: #000080;
+  background-color: #85adad;
+}
+p{
+  color: #004080;
+  background-color: #29a3a3;
+}
+img{
+  border-radius: 8px;
+  height: auto;
+  padding: 5px;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+ol{
+  color: #004080;
+  background-color: #ffff99;
+}
+ul{
+  color: #004080;
+  background-color: #e6b3cc;
+}
